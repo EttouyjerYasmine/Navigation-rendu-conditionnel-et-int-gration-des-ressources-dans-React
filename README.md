@@ -74,13 +74,22 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 Ce projet contient les exercices suivants réalisés avec React :
 
-1. **Notification** : Affiche un message si le nombre de notifications > 0.
-2. **ListeCourses** : Affiche une liste passée en props.
-3. **Galerie** : Affiche trois images importées depuis src.
-4. **Contact** : Nouvelle page accessible via la route `/contact`.
+ **Notification** : Affiche un message si le nombre de notifications > 0.
+-<img width="960" height="510" alt="TP3 1" src="https://github.com/user-attachments/assets/11c2f943-40cc-4675-a713-ff0e4bc66590" />
+- **ListeCourses** : Affiche une liste passée en props.
+-<img width="960" height="507" alt="TP3 2" src="https://github.com/user-attachments/assets/4385c267-263d-46f4-9b6a-05dfe1bd085d" />
+**Galerie** : Affiche trois images importées depuis src.
+   -<img width="960" height="507" alt="TP3 3" src="https://github.com/user-attachments/assets/70fe8471-03f1-4169-8631-b56c850064b6" />
+- **A propos de notre page** 
+   <img width="960" height="540" alt="TP3 4" src="https://github.com/user-attachments/assets/54103d48-2d90-4710-a687-3e96b02b3b7c" />
+- **Conexion**
+- <img width="960" height="508" alt="TP3 5" src="https://github.com/user-attachments/assets/703503a4-8f07-4341-aaee-e041f36dea6c" />
+
+
 
 ## Lancer le projet
 
 ```bash
 npm install
 npm start
+
